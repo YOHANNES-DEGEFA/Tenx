@@ -28,7 +28,7 @@ This setup ensures non-intrusive logging of interactions and improves output rel
   "inputs": []
 }
 
-
+```
 -Authenticated MCP server via GitHub OAuth
 
 -Verified MCP server and agent tools in Copilot Chat
